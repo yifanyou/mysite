@@ -1,7 +1,7 @@
 # Blog info
 blog_name: You Sci&Tech
 slogan: Patience is bitter, but its fruit is sweet .
-url: http://www.yifanyou.com
+url: http://yifanyou.com
 
 # Set avatar (Absolute url and relative url)
 avatar: /images/lusuo.jpg
@@ -18,7 +18,7 @@ home_nav:
     target_blank: false #不在新页面打开
   - name: AION
     url: http://aion.yifanyou.com
-    target_blank: true #在新页面打开
+    target_blank: false #在新页面打开
   - name: Github
     url: https://github.com/yifanyou
     target_blank: true
